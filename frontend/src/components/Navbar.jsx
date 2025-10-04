@@ -15,6 +15,7 @@ import {
   FaSun
 } from 'react-icons/fa';
 import { useTheme } from '../contexts/ThemeContext';
+import TypeRush from '../assets/typerushlogo.png';
 
 const Navbar = () => {
   const location = useLocation();
